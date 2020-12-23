@@ -20,4 +20,4 @@ What I did:
  - Developed 3 scenes (hider scene, seeker scene and spectator scene) and connected them using Photon​​​​​​​
  - As the producer, lead the team and setup working pipeline for programmers, artist and sound designer to work with.
  
- ![alt text] (https://github.com/ymcmatt/Haunter-X-Hunter/blob/main/HaunterGameplay.png)
+ ![alt text](https://github.com/ymcmatt/Haunter-X-Hunter/blob/main/HaunterGameplay.png?raw=true)
